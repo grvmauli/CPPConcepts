@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717592064 source:i:\cprogram\cppconcepts\main.cpp
+	<iostream>
+	"enumconcept.h"
+
+1717592031 i:\cprogram\cppconcepts\enumconcept.h
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1717613357 source:i:\cprogram\typesoffunctions\functdef.cpp
+	<iostream>
+	"typesOffunction.h"
+
+1717613502 i:\cprogram\typesoffunctions\typesoffunction.h
+
+1717613391 source:i:\cprogram\typesoffunctions\main.cpp
+	<iostream>
+	"typesOffunction.h"
+
